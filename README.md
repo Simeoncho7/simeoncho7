@@ -1,16 +1,22 @@
-## Hi there 👋
+## Yo, yo, yo. My name is Simeon
 
-<!--
-**Simeoncho7/simeoncho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FiveM Developing
 
-Here are some ideas to get you started:
+I've been in coding FiveM since late 2022. I'm still a beginner, but I'm constantly learning, experimenting, and doing my best to improve every day through practice and real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇬 I'm from Bulgaria  
+- 🎮 Focused on FiveM development  
+- 🧠 Learning and improving step by step  
+- 🤝 Open to learning from others and collaborating  
+
+### Skills
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### About me
+
+- 🚀 Coding FiveM scripts since late 2022  
+- 📚 Still learning, still improving  
+- 💡 Curious, motivated, and persistent  
